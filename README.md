@@ -16,7 +16,7 @@ If no valid move exists, the game ends.
 
 Execute the game with:
 
-python3 assignment3.py input.txt
+python3 numberboardgame.py input.txt
 
 The board will be displayed at the start.
 
